@@ -23,3 +23,5 @@ open main.html  # On macOS
 start main.html  # On Windows
 
 ```
+# Resources 
+[Tech With Tim](https://www.youtube.com/watch?v=ORrELERGIHs&t=103s)
